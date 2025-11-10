@@ -61,6 +61,7 @@ of the various sections) to have the box centered.
   <rec name="ObsLocTAP" x="612" y="230" w="66"/>
 
   <!-- Data Models: x=430..580, y=250..400 -->
+  <prerec name="MANGO" x="501" y="355" w="51"/>
   <prerec name="MIVOT" x="440" y="355" w="51"/>
   <rec name="VODML" x="512" y="195" w="46"/>
   <rec name="SimDM" x="473" y="230" w="44"/>
@@ -89,6 +90,9 @@ of the various sections) to have the box centered.
   <rec name="VOUnits" x="220" y="250" w="50"/>
   <rec name="UCD" x="189" y="310" w="32"/>
   <rec name="Vocabularies" x="168.5" y="335" w="73"/>
+
+  <!-- DCP -->
+  <prerec name="DataOrigin" x="340" y="335" w="70"/>
 
   <!-- TD -->
   <rec name="VOEvent"  x="570" y="375" w="52"/>
